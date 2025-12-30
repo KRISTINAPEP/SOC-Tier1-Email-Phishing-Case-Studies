@@ -10,8 +10,8 @@ The goal of this repository is to showcase practical analytical skills including
 
 - [Case 01 – Virgin Media Email Spoofing Investigation](Case01_VirginMedia_EmailSpoof.md)
 - [Case 02 – Binus ac id Compromised Account Phishing](Case02_Binus_Email_Compromised.md)
+- [Case 03 – SSA Impersonation Phishing](Case03_SSA_Phishing.md)
 
-- Case 03 – [Reserved for next case]
 
 Additional cases will be added continuously as new investigations are completed.
 

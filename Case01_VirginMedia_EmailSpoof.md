@@ -10,7 +10,7 @@ Reply To: user@redacted domain.xyz
 To: victim@example.com
 Subject: Generic reply lure (redacted)
 X Mailer: Open Xchange Mailer
-X Originating IP: 93.177.119.241
+X Originating IP 93 dot 177 dot 119 dot 241
 Date: Tue 25 Nov 2025 04:28:07 +0000 (UTC)
 
 Authentication Results

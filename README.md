@@ -4,7 +4,7 @@ SOC Tier 1 email phishing and security monitoring case studies.
 
 This repository contains a collection of SOC Tier 1 case studies performed in a personal lab environment for educational and portfolio development purposes. Cases demonstrate realistic Tier 1 responsibilities across security monitoring, alert triage, email investigation, and incident documentation.
 
-The goal of this repository is to showcase practical analytical skills including log review, phishing detection, authentication analysis, link inspection, escalation decision-making, and clear professional reporting.
+The goal of this repository is to showcase practical analytical skills including log review, phishing detection, authentication analysis, link inspection, escalation decision making, and clear professional reporting.
 
 ## Case Index
 

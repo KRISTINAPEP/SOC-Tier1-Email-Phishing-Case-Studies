@@ -1,5 +1,21 @@
 # SOC Tier 1 Incident Investigation Case Studies
 
+## At a Glance
+
+Role Focus: Junior Security Analyst / SOC Analyst (Detection & Triage)
+Primary Interests: Email threat detection, header analysis, phishing investigation, alert classification
+
+Skills Demonstrated:
+- Email header analysis and authentication review (SPF, DKIM, DMARC)
+- Phishing and social engineering detection
+- Indicator identification and threat classification
+- Link and redirect chain analysis
+- Alert triage and escalation decision making
+- Clear, structured security investigation documentation
+
+This repository focuses on detection, analysis, and classification of security threats.
+Remediation actions are documented at a recommendation level, reflecting realistic analyst escalation boundaries.
+
 This repository contains a collection of SOC Tier 1 case studies conducted in a personal analysis environment simulating real Tier 1 SOC workflows. These investigations are documented to demonstrate analyst decision making, threat classification, and incident response skills used in entry level SOC roles.
 
 Cases reflect realistic Tier 1 responsibilities across security monitoring, alert triage, phishing investigation, artifact analysis, and structured incident documentation.
